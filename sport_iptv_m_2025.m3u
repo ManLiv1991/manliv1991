@@ -1,0 +1,65 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="ES: DAZN 1 HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/484784419a9faf9cbeac602c51174f16.png" group-title="Spain ➾ Football",ES: DAZN 1 HD
+http://ip96.uk:8080//live/H645668DH/7565848DHY/292976.ts
+#EXTINF:-1 tvg-id="" tvg-name="ES: DAZN 2 HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/7b025261b7fc8b187dddf757424b01db.png" group-title="Spain ➾ Football",ES: DAZN 2 HD
+http://ip96.uk:8080//live/H645668DH/7565848DHY/292977.ts
+#EXTINF:-1 tvg-id="" tvg-name="ES: DAZN 3 HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/1d36d4196d1e853c52f5a606b640d9b1.png" group-title="Spain ➾ Football",ES: DAZN 3 HD
+http://ip96.uk:8080//live/H645668DH/7565848DHY/292978.ts
+#EXTINF:-1 tvg-id="" tvg-name="ES: DAZN 4 HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/7b834941508cb1ab7d5787042c10bc7b.png" group-title="Spain ➾ Football",ES: DAZN 4 HD
+http://ip96.uk:8080//live/H645668DH/7565848DHY/292979.ts
+#EXTINF:-1 tvg-id="" tvg-name="ES: DAZN Laliga HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-04/7c83dbf4ff68c32c3a692312a13a4d79.jpg" group-title="Spain ➾ Football",ES: DAZN Laliga HD
+http://ip96.uk:8080//live/H645668DH/7565848DHY/292980.ts
+#EXTINF:-1 tvg-id="" tvg-name="ES: DAZN Laliga 2 HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-06/4c44f8e1726a04ccabb219f60f174ebc.png" group-title="Spain ➾ Football",ES: DAZN Laliga 2 HD
+http://ip96.uk:8080//live/H645668DH/7565848DHY/292981.ts
+#EXTINF:-1 tvg-id="" tvg-name="MX: ESPN HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/fef20f5cb1951c51371fc68e1eb0a32c.png" group-title="Mexico ➾ Sports",MX: ESPN HD
+http://ip96.uk:8080//live/H645668DH/7565848DHY/316460.ts
+#EXTINF:-1 tvg-id="" tvg-name="MX: ESPN 2 HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-04/64516b5abe7608f85db2b125d4ed9166.svg" group-title="Mexico ➾ Sports",MX: ESPN 2 HD
+http://ip96.uk:8080//live/H645668DH/7565848DHY/316461.ts
+#EXTINF:-1 tvg-id="" tvg-name="MX: ESPN 3 HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/d5d65be98111905704b0ebcd7d06e3bd.png" group-title="Mexico ➾ Sports",MX: ESPN 3 HD
+http://ip96.uk:8080//live/H645668DH/7565848DHY/316462.ts
+#EXTINF:-1 tvg-id="" tvg-name="MX: ESPN Extra HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/c47d68dc2974632c15a07f4a6714854d.png" group-title="Mexico ➾ Sports",MX: ESPN Extra HD
+http://ip96.uk:8080//live/H645668DH/7565848DHY/316463.ts
+#EXTINF:-1 tvg-id="" tvg-name="ARG: ESPN 2 HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2020-07/826ab86530a6d609f3c9e0a5108ae8d1.png" group-title="Argentina",ARG: ESPN 2 HD
+http://ip96.uk:8080//live/H645668DH/7565848DHY/303141.ts
+#EXTINF:-1 tvg-id="" tvg-name="ARG: ESPN 3 HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2020-07/985c0340dda83edcaa89659e2740eb50.png" group-title="Argentina",ARG: ESPN 3 HD
+http://ip96.uk:8080//live/H645668DH/7565848DHY/303142.ts
+#EXTINF:-1 tvg-id="" tvg-name="ARG: ESPN 4 HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-04/746819f44951f27e240c8fdaf3ea5384.png" group-title="Argentina",ARG: ESPN 4 HD
+http://ip96.uk:8080//live/H645668DH/7565848DHY/303143.ts
+#EXTINF:-1 tvg-id="" tvg-name="ARG: ESPN Premium HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/32cd381cddd366224dff2fae29c3a2cd.svg" group-title="Argentina",ARG: ESPN Premium HD
+http://ip96.uk:8080//live/H645668DH/7565848DHY/303144.ts
+#EXTINF:-1 tvg-id="" tvg-name="ARG: TNT Sports HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-05/13a910df1bb09f161ea63531ac637fce.png" group-title="Argentina",ARG: TNT Sports HD
+http://ip96.uk:8080//live/H645668DH/7565848DHY/303220.ts
+#EXTINF:-1 tvg-id="" tvg-name="LA: BEIN Sports N HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-08/aea02a4b267193542fd66b9923f73861.png" group-title="Latino",LA: BEIN Sports N HD
+http://ip96.uk:8080//live/H645668DH/7565848DHY/303257.ts
+#EXTINF:-1 tvg-id="" tvg-name="LA: DAZN 1 HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-12/490c0209efdc5ecd7dfea8c5b1402279.png" group-title="Latino",LA: DAZN 1 HD
+http://ip96.uk:8080//live/H645668DH/7565848DHY/303290.ts
+#EXTINF:-1 tvg-id="" tvg-name="LA: ESPN HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-09/cc414b3ef4f65c8c4e1bacf8fb9e0278.png" group-title="Latino",LA: ESPN HD
+http://ip96.uk:8080//live/H645668DH/7565848DHY/303313.ts
+#EXTINF:-1 tvg-id="" tvg-name="LA: ESPN 2 HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-09/cc3120d8b6dd47f682035e748793b59f.png" group-title="Latino",LA: ESPN 2 HD
+http://ip96.uk:8080//live/H645668DH/7565848DHY/303314.ts
+#EXTINF:-1 tvg-id="" tvg-name="LA: ESPN 3 HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-04/3d85d5481dc8eb5bf70bd0d82e5f6e44.png" group-title="Latino",LA: ESPN 3 HD
+http://ip96.uk:8080//live/H645668DH/7565848DHY/303315.ts
+#EXTINF:-1 tvg-id="" tvg-name="LA: ESPN 4 HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-03/94c0ada67643d32a6df44618486e5e89.jpg" group-title="Latino",LA: ESPN 4 HD
+http://ip96.uk:8080//live/H645668DH/7565848DHY/303316.ts
+#EXTINF:-1 tvg-id="" tvg-name="LA: ESPN 5 HD" tvg-logo="" group-title="Latino",LA: ESPN 5 HD
+http://ip96.uk:8080//live/H645668DH/7565848DHY/303317.ts
+#EXTINF:-1 tvg-id="" tvg-name="LA: ESPN 6 HD" tvg-logo="" group-title="Latino",LA: ESPN 6 HD
+http://ip96.uk:8080//live/H645668DH/7565848DHY/303318.ts
+#EXTINF:-1 tvg-id="" tvg-name="LA: ESPN Deportes HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/539a05a3d37b2362763c4779fd461efc.png" group-title="Latino",LA: ESPN Deportes HD
+http://ip96.uk:8080//live/H645668DH/7565848DHY/303319.ts
+#EXTINF:-1 tvg-id="" tvg-name="LA: Latin America Sport HD" tvg-logo="" group-title="Latino",LA: Latin America Sport HD
+http://ip96.uk:8080//live/H645668DH/7565848DHY/303367.ts
+#EXTINF:-1 tvg-id="" tvg-name="CO: ESPN HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/9077abd6402f65b78b66f0a1fa79c0cd.png" group-title="Colombia",CO: ESPN HD
+http://ip96.uk:8080//live/H645668DH/7565848DHY/302919.ts
+#EXTINF:-1 tvg-id="" tvg-name="CO: ESPN 2 HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/d0b85729cd212b1cc4d23ffadad19f9e.png" group-title="Colombia",CO: ESPN 2 HD
+http://ip96.uk:8080//live/H645668DH/7565848DHY/302920.ts
+#EXTINF:-1 tvg-id="" tvg-name="CO: ESPN 3 HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/0bc67a3ca3b778cea017d25060ac86cd.png" group-title="Colombia",CO: ESPN 3 HD
+http://ip96.uk:8080//live/H645668DH/7565848DHY/302921.ts
+#EXTINF:-1 tvg-id="" tvg-name="CO: ESPN 4 HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/0d513d16eccae18d3668ac09a6dc3613.jpg" group-title="Colombia",CO: ESPN 4 HD
+http://ip96.uk:8080//live/H645668DH/7565848DHY/302922.ts
+#EXTINF:-1 tvg-id="" tvg-name="CO: ESPN 5 HD" tvg-logo="" group-title="Colombia",CO: ESPN 5 HD
+http://ip96.uk:8080//live/H645668DH/7565848DHY/302923.ts
+#EXTINF:-1 tvg-id="" tvg-name="CO: ESPN 6 HD" tvg-logo="" group-title="Colombia",CO: ESPN 6 HD
+http://ip96.uk:8080//live/H645668DH/7565848DHY/302924.ts
+#EXTINF:-1 tvg-id="" tvg-name="CO: ESPN 7 HD" tvg-logo="" group-title="Colombia",CO: ESPN 7 HD
+http://ip96.uk:8080//live/H645668DH/7565848DHY/302925.ts
