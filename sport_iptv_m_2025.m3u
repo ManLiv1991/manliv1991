@@ -1,4 +1,4 @@
-#EXTM3U:https://github.com/ManLiv1991/manliv1991.git
+#EXTM3U
 #EXTINF:-1 tvg-id="" tvg-name="ES: DAZN 1 HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/484784419a9faf9cbeac602c51174f16.png" group-title="Spain ➾ Football",ES: DAZN 1 HD
 http://ip96.uk:8080//live/H645668DH/7565848DHY/292976.ts
 #EXTINF:-1 tvg-id="" tvg-name="ES: DAZN 2 HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/7b025261b7fc8b187dddf757424b01db.png" group-title="Spain ➾ Football",ES: DAZN 2 HD
@@ -64,3 +64,4 @@ http://ip96.uk:8080//live/H645668DH/7565848DHY/302924.ts
 #EXTINF:-1 tvg-id="" tvg-name="CO: ESPN 7 HD" tvg-logo="" group-title="Colombia",CO: ESPN 7 HD
 
 http://ip96.uk:8080//live/H645668DH/7565848DHY/302925.ts
+
